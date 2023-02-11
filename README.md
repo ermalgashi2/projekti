@@ -1,4 +1,4 @@
-# Simple Online Book Store
+# Libraria e Prizrenit
 
 ### Admin User
 - **uersname**: admin
